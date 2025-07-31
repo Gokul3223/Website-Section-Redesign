@@ -18,4 +18,4 @@ Each section was created with responsiveness in mind, including:
 
 ## 🔗 Links
 - *Figma Design:* [View here](https://www.figma.com/design/ITyr6sW46Asw62pgKfsrrb/Untitled?t=Sbs2bpBvaE6kXbLP-1)
-- *Live GitHub Repo:* [View on GitHub](https://github.com/your-username/repo-name)
+- *Live GitHub Repo:* [View on GitHub](https://github.com/Gokul3223/Website-Section-Redesign)
